@@ -13,9 +13,8 @@ Habilidades adquiridas:
 - Controle de fluxo (condicionais e loops)
 - Manipulação de arquivos e interação com sistemas externos
 - Criação de funções e modularização de código
-  
-[Certificado de Python Essentials](file:///C:/Users/pedro/Downloads/Pedro%20VictorVenâncio%20dos%20San-Partner%20PCAP%20-%20P-certificate..pdf)
- 
+
+certificado
 
 # 2. Dispositivos de Rede
  
@@ -25,7 +24,8 @@ Habilidades adquiridas:
 - Compreensão das funções de diferentes dispositivos de rede
 - Configuração básica de dispositivos e troubleshooting
 - Conceitos de redes e topologias
-  
+
+certificado
   
 
 # 3. Internet das Coisas (IoT)
@@ -50,6 +50,5 @@ Habilidades adquiridas:
 
 Certificado
 
-Conclusão
 Esses cursos complementam o meu desenvolvimento contínuo e me proporcionam uma base sólida para atuar em diversas áreas da Tecnologia da Informação, como redes, programação e sistemas conectados. Busco aplicar essas competências em desafios práticos e estou sempre em busca de novas oportunidades de aprendizado e crescimento profissional.
 
