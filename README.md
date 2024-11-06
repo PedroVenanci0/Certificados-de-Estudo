@@ -14,7 +14,7 @@ Habilidades adquiridas:
 - Manipulação de arquivos e interação com sistemas externos
 - Criação de funções e modularização de código
   
-Certificado
+Certificad: file:///C:/Users/pedro/Downloads/Pedro%20VictorVenâncio%20dos%20San-Partner%20PCAP%20-%20P-certificate..pdf
 
 # 2. Dispositivos de Rede
  
@@ -24,7 +24,8 @@ Habilidades adquiridas:
 - Compreensão das funções de diferentes dispositivos de rede
 - Configuração básica de dispositivos e troubleshooting
 - Conceitos de redes e topologias
-- Certificado
+  
+  
 
 # 3. Internet das Coisas (IoT)
 
