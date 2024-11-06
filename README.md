@@ -14,7 +14,8 @@ Habilidades adquiridas:
 - Manipulação de arquivos e interação com sistemas externos
 - Criação de funções e modularização de código
   
-Certificad: file:///C:/Users/pedro/Downloads/Pedro%20VictorVenâncio%20dos%20San-Partner%20PCAP%20-%20P-certificate..pdf
+[Certificado de Python Essentials](file:///C:/Users/pedro/Downloads/Pedro%20VictorVenâncio%20dos%20San-Partner%20PCAP%20-%20P-certificate..pdf)
+ 
 
 # 2. Dispositivos de Rede
  
